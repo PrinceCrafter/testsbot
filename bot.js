@@ -57,7 +57,6 @@ if (message.content.startsWith(prefix + "user")) {
      
      }
 
-
 const Discord = require('discord.js')
 const bot = new Discord.Client()
 const prefix = "-"
